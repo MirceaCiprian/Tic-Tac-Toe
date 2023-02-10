@@ -1,5 +1,5 @@
 .box {
-    display: block;
+    display: inline;
     background-color: antiquewhite;
     width: 100px;
     height: 100px;
